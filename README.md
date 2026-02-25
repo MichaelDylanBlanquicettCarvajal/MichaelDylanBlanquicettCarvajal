@@ -8,7 +8,7 @@
  
 ## About Me
 
-My name is Michael, I am from Colombia. I studied in a public school but thanks to a scholarship I won, I was able to apply for education at the best university in my country. I am currently working on my thesis project as final requirement for my graduation. I am very interested in the mathematics and structures behind algorithms and optimization, wich are my favorite topics in my field. 
+My name is Michael, I am from Colombia. I studied in a public school but thanks to a scholarship I won, I was able to apply for education at the best university in my country. I am very interested in the mathematics and structures behind algorithms and optimization, wich are my favorite topics in my field. Currently looking for a job so i can visit Mexico and also live there.
 
 ## Skills
 
@@ -16,3 +16,5 @@ My name is Michael, I am from Colombia. I studied in a public school but thanks 
 - Algorithms development and optimization implementation
 - SQL and Database development
 - Machine Learning methods for data processing
+- IA pront
+- Fast bug fix
